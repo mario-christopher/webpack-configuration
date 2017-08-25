@@ -33,9 +33,9 @@ The code samples work for the following module versions:
 
 
 ---
-*Source :* [Angular with Webpack](https://v2.angular.io/docs/ts/latest/guide/webpack.html)
+Source : [Angular with Webpack](https://v2.angular.io/docs/ts/latest/guide/webpack.html)
 
-*Further reading :* [Webpack](https://webpack.github.io/docs/)
+Further reading : [Webpack](https://webpack.github.io/docs/)
 
 ---
 ##   License
