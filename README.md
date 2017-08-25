@@ -16,7 +16,7 @@ So we end up with the following files:
 * `config/webpack.test.js` *- this file contains the TEST envt. specific configuration.*
 * `webpack.config.js` *- this file lives in the root folder, and uses `webpack-merge` to combine the Commom configuration with the required Envt. specific configuration and provides it to Webpack to compile.*
 
-To build targetting an environment (e.g.: PROD)), edit file `webpack.config.js` and replace
+To build targetting an environment (e.g.: PROD), edit file `webpack.config.js` and replace
 
 `module.exports = require('./config/webpack.dev.js');`
 
